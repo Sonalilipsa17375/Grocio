@@ -25,20 +25,19 @@ A simple and elegant iOS application built using **Swift** that helps users mana
 
 ## 📂 Folder Structure
 
-GroceryApp/
-├── Controllers/
-│ ├── ViewController.swift
-├── Models/
-│ ├── GroceryItem.swift
-├── Views/
-│ ├── GroceryCell.swift
-├── Resources/
-│ ├── Assets.xcassets
-│ ├── LaunchScreen.storyboard
-├── Info.plist
-├── Main.storyboard
+GroceryApp/  
+├── Controllers/  
+│   └── ViewController.swift  
+├── Models/  
+│   └── GroceryItem.swift  
+├── Views/  
+│   └── GroceryCell.swift  
+├── Resources/  
+│   ├── Assets.xcassets  
+│   └── LaunchScreen.storyboard  
+├── Info.plist  
+├── Main.storyboard  
 └── AppDelegate.swift
-
 
 ## 🚀 Getting Started
 
@@ -52,9 +51,8 @@ GroceryApp/
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/SonaliLipsa17375/Grocio.git
-
-cd Grocio
-open Grocio.xcodeproj
-
+    ```bash
+    git clone https://github.com/SonaliLipsa17375/Grocio.git
+    cd Grocio
+    open Grocio.xcodeproj
+    ```
